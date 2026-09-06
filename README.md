@@ -4,7 +4,7 @@
 
 Email Me 👉 ✉️**pathansohel3186@gmail.com** For Collaboration/Project or Anything Else. 
 
-🔭 **I’m currently working on**: I’m currently working on data analytics projects using Python, SQL, Power BI, and Excel.
+🔭 **I’m currently working on**: data analytics projects using Python, SQL, Power BI, and Excel.
 
 🌱 **I’m currently learning**: Currently learning and building projects in Data Analytics, Data Science, Data Engineering, and Python Development.
 🚀 Python | SQL | Power BI | Excel | Problem Solving
