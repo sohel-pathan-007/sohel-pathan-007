@@ -17,7 +17,7 @@ Analyzed banking data using Python, Pandas, NumPy, and Matplotlib to find useful
 2. **Python Project** :
 Built a Python project to practice programming, problem-solving, and data handling.
 
-💬 **Ask me about**: Python Developer, Data Analytics, Data Science, Data Engineering, Advanced SQL, Power BI, and Advanced Excel,
+💬 **Ask me about**: Python Developer, Data Analytics, Data Science, Data Engineering, Advanced SQL, Power BI, and Advanced Excel.
 
 📫**How to reach me**: pathansohel3186@gmail.com 
 
