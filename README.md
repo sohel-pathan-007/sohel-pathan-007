@@ -54,8 +54,8 @@ Built a Python project to practice programming, problem-solving, and data handli
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohel-pathan-007&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/Sohel-pathan-007/Sohel-pathan-007/main/trophies/trophy-1.svg" width="320" alt="Code Achiever Trophy">
 </p>
