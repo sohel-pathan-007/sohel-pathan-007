@@ -1,14 +1,15 @@
 💫 Hi 👋 I'm **Sohel Pathan**
 
-**A Passionate Data Professional** | **Data Analyst** | **Data Scientist** | **Data Engineer** | **Python Developer** | **SQL** | **Power BI** | **Excel**
+## 💫 About Me
 
-Email Me 👉 ✉️**pathansohel3186@gmail.com** For Collaboration/Project or Anything Else. 
+Hi 👋 I'm a passionate Data Professional focused on Data Analytics, Data Science, Data Engineering, and Python Development.
 
-🔭 **I’m currently working on**: data analytics projects using Python, SQL, Power BI, and Excel.
+📊 I work with Python, SQL, Power BI, Excel, Pandas, NumPy, and Matplotlib to analyze data, uncover meaningful insights, and build practical projects.
 
-🌱 **I’m currently learning**: Currently learning and building projects in Data Analytics, Data Science, Data Engineering, and Python Development.
+🚀 I’m continuously learning and developing my skills in Data Analytics, Data Science, Data Engineering, and Python Development while working on real-world projects.
 
-🚀 Python | SQL | Power BI | Excel | Problem Solving
+💡 I’m passionate about transforming raw data into meaningful insights and using technology to solve real-world problems.
+
 
 👯 **I’m looking to collaborate on**: 
 1. **Banking Data Analysis** :
