@@ -62,3 +62,40 @@ Built a Python project to practice programming, problem-solving, and data handli
     alt="GitHub Trophies"
   />
 </p>
+
+⭐ Featured Projects
+
+📊 Bank Data Analysis
+
+Python | Pandas | NumPy | Matplotlib | CSV
+
+🔹 Data Cleaning & Preprocessing
+🔹 Customer & City-wise Analysis
+🔹 Credit Score & Statistical Analysis
+🔹 Risk Customer Identification
+🔹 Correlation & Pivot Table Analysis
+🔹 Data Visualization
+
+🔗 "Explore Project →" (https://github.com/sohel-pathan-007/Bank-data-analysis)
+
+---
+
+🏦 Banking Management System
+
+Python | CSV | UUID | Datetime
+
+🔹 Account Creation & Management
+🔹 Deposit & Withdrawal Operations
+🔹 Fund Transfer
+🔹 Transaction Tracking
+🔹 Account Search & Validation
+🔹 CSV-based Data Storage
+
+🔗 "Explore Project →" (https://github.com/sohel-pathan-007/Python-project)
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohel-pathan-007&theme=github-dark&hide_border=true&area=true" alt="Sohel's Contribution Graph" />
+</p>
