@@ -101,3 +101,9 @@ Python | CSV | UUID | Datetime
 ## 📊 GitHub Contribution Graph
 
 [![GitHub Contribution Graph](https://ghchart.rshah.org/sohel-pathan-007)](https://github.com/sohel-pathan-007)
+
+## 📫 How to Reach Me
+
+- 💼 LinkedIn: [Sohel Pathan](https://linkedin.com/in/sohel-pathan07)
+- 📧 Email: [pathansohel3186@gmail.com](mailto:pathansohel3186@gmail.com)
+- 🐙 GitHub: [sohel-pathan-007](https://github.com/sohel-pathan-007)
