@@ -77,7 +77,7 @@ Python | Pandas | NumPy | Matplotlib | CSV
 🔹 Correlation & Pivot Table Analysis
 🔹 Data Visualization
 
-🔗 "Explore Project →" (https://github.com/sohel-pathan-007/Bank-data-analysis)
+🔗 "Explore Project → https://github.com/sohel-pathan-007/Bank-data-analysis
 
 ---
 
@@ -92,7 +92,7 @@ Python | CSV | UUID | Datetime
 🔹 Account Search & Validation
 🔹 CSV-based Data Storage
 
-🔗 "Explore Project →" (https://github.com/sohel-pathan-007/Python-project)
+🔗 "Explore Project → https://github.com/sohel-pathan-007/Python-project
 
 
 ## 🐍 GitHub Contribution Snake
