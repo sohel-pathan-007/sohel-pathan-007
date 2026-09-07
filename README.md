@@ -97,3 +97,7 @@ Python | CSV | UUID | Datetime
 ## 🐍 GitHub Contribution Snake
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/sohel-pathan-007/sohel-pathan-007/refs/heads/main/dist/github-contribution-grid-snake.svg)
+
+## 📊 GitHub Contribution Graph
+
+[![GitHub Contribution Graph](https://ghchart.rshah.org/sohel-pathan-007)](https://github.com/sohel-pathan-007)
