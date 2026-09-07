@@ -94,8 +94,6 @@ Python | CSV | UUID | Datetime
 🔗 "Explore Project →" (https://github.com/sohel-pathan-007/Python-project)
 
 
-## 📈 Contribution Graph
+## 🐍 My GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohel-pathan-007&theme=github-dark&hide_border=true&area=true" alt="Sohel's Contribution Graph" />
-</p>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sohel-pathan-007/sohel-pathan-007/output/github-contribution-grid-snake.svg)
