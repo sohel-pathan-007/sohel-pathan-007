@@ -17,7 +17,10 @@ Analyzed banking data using Python, Pandas, NumPy, and Matplotlib to find useful
 
 2. **Python Project** :
 Built a Python project to practice programming, problem-solving, and data handling.
-#
+
+3. **Credit Card Financial & Customer Analytics projects**:
+ using SQL, Excel, Power BI, Power Query, and DAX to analyze financial data, understand customer behavior, and generate meaningful business insights.
+
 💬 **Ask me about**: Python Developer, Data Analytics, Data Science, Data Engineering, Advanced SQL, Power BI, and Advanced Excel.
 
 📫**How to reach me**: pathansohel3186@gmail.com 
@@ -99,11 +102,32 @@ Python | CSV | UUID | Datetime
 🔗 Explore Project → https://github.com/sohel-pathan-007/Python-project
 
 #
+
+**💳 Credit Card Financial & Customer Analytics**
+
+SQL | Excel | Power BI | Power Query | DAX
+
+🔹 Credit Card Transaction Analysis
+🔹 Customer Demographic Analysis
+🔹 Revenue & Interest Analysis
+🔹 Transaction & Spending Pattern Analysis
+🔹 Customer Segmentation
+🔹 SQL Database Management
+🔹 Interactive Power BI Dashboards
+🔹 KPI & DAX Measure Creation
+🔹 Data Cleaning & Transformation
+🔹 Interactive Filters & Slicers
+
+🔗 Explore Project → https://github.com/sohel-pathan-007/Credit_Card_Financial_Dahboard
+
+
 ## 🐍 GitHub Contribution Snake
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/sohel-pathan-007/sohel-pathan-007/refs/heads/main/dist/github-contribution-grid-snake.svg)
 
 #
+
+
 ## 📊 GitHub Contribution Graph
 
 [![GitHub Contribution Graph](https://ghchart.rshah.org/sohel-pathan-007)](https://github.com/sohel-pathan-007)
