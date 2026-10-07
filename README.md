@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-**Hi**👋 I'm a passionate Data Professional focused on **Data Analytics**, **Data Science**, **Data Engineering**, and **Python Development**.
+**Hi**👋 I'm a passionate Data Professional focused on **Data Analytics**.
 
 📊 I work with Python, SQL, Power BI, Excel, Pandas, NumPy, and Matplotlib to analyze data, uncover meaningful insights, and build practical projects.
 
