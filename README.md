@@ -6,7 +6,7 @@
 
 📊 I work with Python, SQL, Power BI, Excel, Pandas, NumPy, and Matplotlib to analyze data, uncover meaningful insights, and build practical projects.
 
-🚀 I’m continuously learning and developing my skills in Data Analytics, Data Science, Data Engineering, and Python Development while working on real-world projects.
+🚀 I’m continuously learning and developing my skills in Data Analytics, SQL, Power bi, Excel while working on real-world projects.
 
 💡 I’m passionate about transforming raw data into meaningful insights and using technology to solve real-world problems.
 
