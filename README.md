@@ -21,7 +21,10 @@ Built a Python project to practice programming, problem-solving, and data handli
 3. **Credit Card Financial & Customer Analytics projects**:
  using SQL, Excel, Power BI, Power Query, and DAX to analyze financial data, understand customer behavior, and generate meaningful business insights.
 
-💬 **Ask me about**: Python Developer, Data Analytics, Data Science, Data Engineering, Advanced SQL, Power BI, and Advanced Excel.
+4. **UPI Transaction Analytics & Power BI Dashboard**:
+Analyzed UPI transaction data using Python, MySQL, and Power BI to identify transaction trends, success rates, fraud risks, and business insights.
+
+💬 **Ask me about**:Data Analytics, SQL devloper, Power BI, and Advanced Excel.
 
 📫**How to reach me**: pathansohel3186@gmail.com 
 
@@ -120,6 +123,23 @@ SQL | Excel | Power BI | Power Query | DAX
 
 🔗 Explore Project → https://github.com/sohel-pathan-007/Credit_Card_Financial_Dahboard
 
+**📱 UPI Transaction Analytics & Power BI Dashboard**
+
+Python | SQL | MySQL | Power BI | Power Query | DAX
+
+🔹 UPI Transaction Data Analysis
+🔹 Data Cleaning & Preprocessing
+🔹 Transaction Status & Success Rate Analysis
+🔹 State-wise & City-wise Analysis
+🔹 UPI App & Bank-wise Analysis
+🔹 Fraud & Risk Analysis
+🔹 Transaction Type & Merchant Analysis
+🔹 Time-based Transaction Analysis
+🔹 KPI & DAX Measure Creation
+🔹 Interactive Power BI Dashboard
+🔹 Filters, Slicers & Heatmap Visualization
+
+🔗 Explore Project → https://github.com/sohel-pathan-007/UPI_Transaction_Analysis_Dashboard
 
 ## 🐍 GitHub Contribution Snake
 
